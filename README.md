@@ -1,1 +1,1 @@
-# Stats
+# Statistical Learning Assignments
